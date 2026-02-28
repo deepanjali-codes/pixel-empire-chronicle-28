@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# MINECRAFT - Blocks or Emotion
 
 ## Project info
 
