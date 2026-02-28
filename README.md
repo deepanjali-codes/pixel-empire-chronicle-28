@@ -1,73 +1,177 @@
-# MINECRAFT - Blocks or Emotion
+🟩 Minecraft Revolution
+🌍 The Rise of a Digital Empire
 
-## Project info
+“A block that changed the world.”
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+An immersive, high-animation data visualization experience exploring how Minecraft evolved from an indie sandbox experiment in 2009 into the best-selling game of all time.
 
-## How can I edit this code?
+This project blends storytelling, interactive data visualization, and cinematic web animation to showcase Minecraft’s global impact across gaming, education, media, and digital culture.
 
-There are several ways of editing your application.
+🎮 Live Experience
 
-**Use Lovable**
+🔗 Live Demo: (Add your deployed link here)
+📂 Dataset: (Add dataset link or CSV file path)
+💻 Source Code: (GitHub repo link)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+🌟 Project Concept
 
-Changes made via Lovable will be committed automatically to this repo.
+“Minecraft Revolution” is not just a website — it’s a scroll-driven narrative experience.
 
-**Use your preferred IDE**
+The site is structured as:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🎬 1 Intro Section
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📊 8 Data Visualization Slides
 
-Follow these steps:
+🌅 1 Cinematic Outro
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Each section uses animated graphs, micro-interactions, and immersive Minecraft-core aesthetics to tell the story of how one block reshaped digital history.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🧱 What This Project Explores
+1️⃣ The Beginning (2009 Launch Era)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Early player growth timeline
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Adoption curve visualization
 
-**Edit a file directly in GitHub**
+Beta-to-global-release expansion
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2️⃣ Global Explosion
 
-**Use GitHub Codespaces**
+Worldwide sales growth
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Platform expansion
 
-## What technologies are used for this project?
+Regional popularity heatmap
 
-This project is built with:
+3️⃣ The YouTube Effect
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Impact of YouTube creators on game popularity.
 
-## How can I deploy this project?
+Views vs time bar graph
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Influencer spike visualization
 
-## Can I connect a custom domain to my Lovable project?
+4️⃣ Community & Creativity
 
-Yes, you can!
+Mods, skins, servers created
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Creative vs Survival mode usage breakdown
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Animated counters
+
+5️⃣ Educational Impact
+
+Growth of Minecraft: Education Edition
+
+School adoption curve
+
+Subject usage analysis
+
+Area graph growth visualization
+
+6️⃣ Corporate Acquisition
+
+The $2.5B acquisition by Microsoft
+
+Pre & post revenue comparison
+
+Timeline animation
+
+7️⃣ Cultural Phenomenon
+
+Meme evolution
+
+Social media trend analytics
+
+Merch growth trajectory
+
+8️⃣ The Empire Today
+
+300M+ lifetime copies sold
+
+140M+ monthly active players
+
+Platform share pie chart
+
+Active user growth curve
+
+🎨 Design Philosophy
+
+✨ Minecraft-core aesthetic
+✨ Dark mode + emerald neon accents
+✨ Pixel-inspired yet modern typography
+✨ Scroll-triggered cinematic transitions
+✨ Glassmorphism data cards
+✨ XP-style progress indicator
+✨ 3D hover animations
+
+The UI mimics Minecraft’s blocky identity while maintaining modern data visualization clarity.
+
+📊 Data Sources & Methodology
+
+Data ranges from 2009–2025 estimates, compiled from:
+
+Official sales announcements
+
+Public company acquisition reports
+
+Gaming analytics publications
+
+Platform usage trends
+
+Note: Some values beyond officially reported milestones are modeled using trend extrapolation for visualization purposes.
+
+🛠 Tech Stack
+
+HTML5
+
+CSS3 (Advanced animations & glassmorphism)
+
+JavaScript
+
+SVG / Canvas-based charts
+
+Scroll-triggered animation system
+
+Responsive layout architecture
+
+Optional Enhancements:
+
+GSAP-style motion system
+
+Interactive tooltip engine
+
+Smooth 60fps transitions
+
+📁 Project Structure
+minecraft-revolution/
+│
+├── index.html
+├── style.css
+├── script.js
+├── /assets
+├── /data
+│   └── minecraft_growth_2009_2025.csv
+└── README.md
+🚀 Why This Project Stands Out
+
+✅ Data storytelling instead of static charts
+✅ High-level animation integrated with analytics
+✅ Strong visual identity
+✅ Balanced aesthetics + performance
+✅ Educational + commercial + cultural lens
+
+This isn’t just visualization — it’s an interactive documentary.
+
+🎥 Performance Focus
+
+Optimized animations
+
+Lazy loading assets
+
+Lightweight chart rendering
+
+GPU-accelerated transforms
+
+Clean modular code
