@@ -25,23 +25,25 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.minecraft-revolution" />
 </p>
 
+<p align="center">
 Deepanjali-codes
 
 [![Live Demo](https://img.shields.io/badge/View-Live%20Site-4CAF50?style=for-the-badge)](https://yourusername.github.io/minecraft-revolution/)
 
 [![Live Demo](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://your-link.vercel.app)
-
+</p>
 ---
+<p align="center">
 
 ## ▓▒░ ✦ ✧ ✦ ░▒▓
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ## 📸 Preview
-
+</p>
 <p align="center">
   <img src="assets/preview1.png" width="80%" />
-</p>
+
 
 ## 🎯 Project Impact
 
@@ -55,3 +57,4 @@ This project demonstrates the power of combining:
 
 The goal was not just to visualize numbers —  
 but to visualize a revolution.
+</p>
