@@ -33,14 +33,14 @@ Deepanjali-codes
 [![Live Demo](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://your-link.vercel.app)
 </p>
 ---
-<p align="center">
+<center>
 
 ## ▓▒░ ✦ ✧ ✦ ░▒▓
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ## 📸 Preview
-</p>
+</center>
 <p align="center">
   <img src="assets/preview1.png" width="80%" />
 
